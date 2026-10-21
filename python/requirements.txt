@@ -1,0 +1,2 @@
+# Only needed for --engine claude; the rules engine and tests use the standard library.
+anthropic>=1.17,<2

@@ -1,0 +1,14 @@
+{
+  "shop_name": "Demo Fashion BD",
+  "currency": "BDT",
+  "delivery": {
+    "inside_dhaka": 70,
+    "outside_dhaka": 130,
+    "dhaka_keywords": ["ঢাকা", "dhaka", "মিরপুর", "mirpur", "উত্তরা", "uttara", "ধানমন্ডি", "dhanmondi", "গুলশান", "gulshan", "মোহাম্মদপুর", "mohammadpur", "বনানী", "banani"]
+  },
+  "products": [
+    { "id": "panjabi", "name_bn": "পাঞ্জাবি", "price": 1450, "aliases": ["পাঞ্জাবি", "পাঞ্জাবী", "panjabi", "punjabi"] },
+    { "id": "saree",   "name_bn": "শাড়ি",    "price": 2200, "aliases": ["শাড়ি", "শাড়ী", "saree", "sari"] },
+    { "id": "tshirt",  "name_bn": "টি-শার্ট",  "price": 450,  "aliases": ["টি-শার্ট", "টিশার্ট", "টি শার্ট", "t-shirt", "tshirt", "t shirt"] }
+  ]
+}

@@ -1,0 +1,8 @@
+out/
+__pycache__/
+*.pyc
+.venv/
+.env
+*.log
+stability-report/
+stability-watch.csv
